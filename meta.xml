@@ -1,0 +1,9 @@
+<meta>
+    <min_mta_version server="1.5.4-9.11413" client="1.3.2" />
+    
+    <script src="RSC_Server.lua" type="server" />
+    <script src="RSC_Client.lua" type="client" />
+    <script src="RSC_Geral.lua" type="server" />
+    
+    <info version="1.3.4" author="CoNNs"></info>
+</meta>
